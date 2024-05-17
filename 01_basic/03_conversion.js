@@ -8,7 +8,7 @@ let valueInNumber = Number(score); //conversion
 
 //console.log(valueInNumber);
 
-/* Notes After conversion
+/* Notes After conversion of score value in Number
 I/p (string) "33" => O/p 33 => type number
 I/p (string) "33abc" => O/p NaN => type number
 I/p (object) null => O/p 0 => type number
