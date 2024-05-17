@@ -29,7 +29,7 @@ let booleanisLoggedIn = Boolean(isLoggedIn);
 "Farhat" => true
 */
 
-let someNumber = "33";
+let someNumber = 33;
 
 let stringNumber = String(stringNumber);
 console.log(stringNumber);
